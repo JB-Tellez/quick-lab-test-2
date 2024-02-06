@@ -1,0 +1,2 @@
+import pytest
+from quick_lab_test_2.quick_lab_test_2 import quick_lab_test_2 
